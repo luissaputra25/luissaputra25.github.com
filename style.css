@@ -1,9 +1,9 @@
 .banner{
-    background:url("https://www.digitalplatforms.co.za/wp-content/uploads/2015/11/Website-Design-Background.jpg") 
+    background:url("https://image.popbela.com/content-images/post/20240803/2713b819e635d187e6728e2a64a085ea.png?width=750&format=webp&w=750") 
     no-repeat center center;
     background-size: cover ;
-    padding-top: 20% ;
-    padding-bottom: 20% ;
+    padding-top: 25% ;
+    padding-bottom: 25% ;
     color: #fff;
 }
 
@@ -47,8 +47,8 @@ a.social{
     max-height: 50px;
 }
 
-.kontak {
-  background: url("https://wallpaperaccess.com/full/1867010.jpg") no-repeat
+#kontak {
+  background: url("https://910.id/cdn/shop/files/MAIN_BANNER_ALL_COLOR_MOBILE.png?v=1748399012&width=1500") no-repeat
     center center;
   background-size: cover;
   padding-bottom: 20%;
@@ -57,9 +57,9 @@ a.social{
 }
 
 .tim{
-    background: url("https://tse3.mm.bing.net/th?id=OIP.-wsqKzlmQCj5ak-gIxGDGAHaEK&pid=Api&P=0&h=180") no-repeat center center;
+    background: url("https://static.vecteezy.com/system/resources/thumbnails/059/117/144/small_2x/female-runner-silhouette-running-over-urban-background-with-palm-trees-and-sunset-sky-photo.jpg") no-repeat center center;
   background-size: cover;
-  padding-bottom: 10%;
-  padding-top: 10%;
+  padding-bottom: 5%;
+  padding-top: 5%;
   color: #fff;
 }
